@@ -10,6 +10,6 @@
 Asmara05/Asmara05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hello my name us asmara 
-56398683
-tanck you 
+hello my name us asmara comment voys aller 😁
+je suis un passionné d'informatique 
+et vous 
